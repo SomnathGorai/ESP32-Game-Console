@@ -43,7 +43,7 @@ ESP32-Game-Console/
 ---
 
 ## 📸 Preview
-(You can add real pictures/screenshots of your console or games here)
+
 
 ---
 
